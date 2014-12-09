@@ -1,13 +1,13 @@
 {
-  "name": "broccoli-concat",
+  "name": "broccoli-concat-cabbage",
   "description": "Concatenate broccoli trees",
-  "version": "0.0.12",
-  "author": "Richard Livsey <richard@livsey.org>",
+  "version": "0.0.1",
+  "author": "Justin Searls <justin@testdouble.com>",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rlivsey/broccoli-concat"
+    "url": "https://github.com/cabbagejs/broccoli-concat"
   },
   "scripts": {
     "test": "mocha tests/"
@@ -17,8 +17,8 @@
     "quick-temp": "~0.1.2",
     "broccoli-writer": "^0.1.1",
     "broccoli-kitchen-sink-helpers": "^0.2.4",
-    "js-string-escape": "~1.0.0"
-    "glob": "^4.3.1",
+    "js-string-escape": "~1.0.0",
+    "glob": "^4.3.1"
   },
   "devDependencies": {
     "mocha": "~1.21.3",
